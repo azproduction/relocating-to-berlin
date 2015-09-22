@@ -86,7 +86,7 @@ On bicycle it could take less, it is convenient  and extremely popular mean of t
 
 ### What are the main difficulties with relocation?
 
-**Mikhail Davydov**: Besides finding the job remotely. Collect, translate all required papers. 
+**Mikhail Davydov**: Besides finding the job remotely, collect, translate all required papers. 
 
 **Artem Sapegin**: You also need a diploma for a Blue Card.
 
