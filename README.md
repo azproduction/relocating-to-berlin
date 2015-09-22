@@ -37,10 +37,10 @@ Without a bank account is is impossible to rent anything decent. First pay slip 
 Usually it takes 1+ month to find good apartment, because there are some poor quality places, overpriced or there are
 20 applicants for an apartment.
 
-**Mikhail**: I found one in 2 weeks, but it was an ultimate luck, before that I was renting an apartment on AirBnB 
+**Mikhail Davydov**: I found one in 2 weeks, but it was an ultimate luck, before that I was renting an apartment on AirBnB 
 for 2 months.
 
-**Artem**: I found my in 1,5 months but I have two dogs which makes it much more complicated. There are companies like [Berlinovo](https://www.berlinovo.de/en) or [Central Home](https://www.central-home.de/en/home/) where you can rent a flat without registration or bank account. You can register there and live as long as you want (but you probably would not want).
+**Artem Sapegin**: I found my in 1,5 months but I have two dogs which makes it much more complicated. There are companies like [Berlinovo](https://www.berlinovo.de/en) or [Central Home](https://www.central-home.de/en/home/) where you can rent a flat without registration or bank account. You can register there and live as long as you want (but you probably would not want).
 
 ### How expensive apartments are is it expensive?
 
@@ -67,8 +67,7 @@ Another way is scout real estate websites:
  * http://immowelt.de
  * http://immonet.de
  
-**Mikhail**: I was trying to find a flat on immobilienscout24, all non-agent offers had very poor quality. 
-All agent's flats were very nice.
+**Mikhail Davydov**: I was trying to find a flat on immobilienscout24, all non-agent offers had very poor quality. All agent's flats were very nice.
 
 ## Commute
 
@@ -81,28 +80,29 @@ On bicycle it could take less, it is convenient  and extremely popular mean of t
 
 ### Why is Germany better than other countries?
 
-**Mikhail**: Social security, stable economy, it cares of environment, easy to get to any point of europe. 
+**Mikhail Davydov**: Social security, stable economy, it cares of environment, easy to get to any point of europe. 
 
 ## Relocation
 
 ### What are the main difficulties with relocation?
 
-**Mikhail**: Besides finding the job remotely. Collect, translate all required papers. 
+**Mikhail Davydov**: Besides finding the job remotely. Collect, translate all required papers. 
 
-**Artem**: You also need a diploma for a Blue Card.
+**Artem Sapegin**: You also need a diploma for a Blue Card.
 
 ### What are the main difficulties with living in Germany?
 
-**Mikhail**: Language, I guess. Locals are usually closed to non-German speaking people.
+**Mikhail Davydov**: Language, I guess. Locals are usually closed to non-German speaking people.
 
 ## Jobs
 
 ### How do I find an IT job?
 
 Have a well-written profile on http://linkedin.com (must) and http://xing.de (not really required). 
-Scout offers on https://angel.co/ for startup company. Or websites of big local companies.
+Scout offers on startup jobs or websites of big local companies.
 
-**Artem**: [Stack Overflow](http://careers.stackoverflow.com/cities/berlin) and [Berlin Startup Jobs](http://berlinstartupjobs.com/) are also very good.
+**Mikhail Davydov**: I found mine on Twitter, actually. https://angel.co/ – this one has a big offer list of startup companies.
+**Artem Sapegin**: [Stack Overflow](http://careers.stackoverflow.com/cities/berlin) and [Berlin Startup Jobs](http://berlinstartupjobs.com/) are also very good.
 
 ### How do I find a non-IT job (e. g. for my wife)? Is it possible?
 
@@ -116,4 +116,8 @@ in Finanzamt as Kleinunternehmer (for instance) at the beginning.
 
 ### What kind of salary range should I expect? 
 
-It really depends, please refer to the https://angel.co/
+It really depends, please refer to the job posting websites like https://angel.co/ or http://berlinstartupjobs.com/
+
+# Authors
+
+All authors contributed to the answers are listed in [AUTHORS](AUTHORS).
