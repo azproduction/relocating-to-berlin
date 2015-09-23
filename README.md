@@ -92,7 +92,44 @@ On bicycle it could take less, it is convenient  and extremely popular mean of t
 
 ### How long does the visa process usually take? What are the basic requirements?
 
+If we are talking about Blue Card, it takes about a month to prepare all
+the necessary documents.
+
+This process is only valid for those, whose diploma is accepted in
+Germany. You can check if your diploma is accepted [on
+Anabin](http://anabin.kmk.org/).
+
+I've heard that with 5 or 10 years of experience you are not required to
+have a diploma. But this is to be confirmed.
+
+You need all the usual stuff like passport, CV etc translated into English
+or German.
+
+The process for getting Blue Card is as follows:
+
+1. You translate all your documents (passport, diploma, CV) and send it to
+   your future employer. It can be done in a week.
+
+2. Employer sends all the docs about you, company, your future position to
+   the Ministry of Labor for approval. Once you have the approval, visa is
+   just a formality. Approval process can take a week or two.
+
+3. You take all the documents about you, company and your future position
+   together with approval from the Ministry of Labor to German embassy in
+   your country. In a week or so they give you a 3-month work permit. With
+   it you should be able to move to Germany and start working.
+
+4. Once in Germany you sign up for a bank account, find an apartement and
+   register. Once you are registered, you can exchange your temporary work
+   permit to Blue Card.
+
+
 ### How much do you usually spend on food, lunches, restaraunts?
+
+Lunch in a canteen for one: 3-5€
+Lunch in a cafe for one: 5-13€
+Dinner in a restaraunt for one: 8-20€
+Beer in a cafe: 2-4€
 
 ### What are the main difficulties with living in Germany?
 
