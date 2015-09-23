@@ -119,18 +119,18 @@ The process for getting Blue Card is as follows:
    your country. In a week or so they give you a 3-month work permit. With
    it you should be able to move to Germany and start working.
 
-4. Once in Germany you sign up for a bank account, find an apartement and
+4. Once in Germany you sign up for a bank account, find an apartment and
    register. Once you are registered, you can exchange your temporary work
    permit to Blue Card.
 
 
-### How much do you usually spend on food, lunches, restaraunts?
+### How much do you usually spend on food, lunches, restaurants?
 
 * Lunch in a canteen for one: 3-5€
 
 * Lunch in a cafe for one: 5-13€
 
-* Dinner in a restaraunt for two: 20-40€
+* Dinner in a restaurant for two: 20-40€
 
 * Beer in a cafe: 2-4€
 
