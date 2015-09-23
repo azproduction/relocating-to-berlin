@@ -92,7 +92,7 @@ Cycling could be faster in many cases, it is a convenient and extremely popular 
 
 **Mikhail Davydov**: Besides finding the job remotely, collect, translate all required papers. 
 
-**Artem Sapegin**: You also need a diploma for a Blue Card.
+**Artem Sapegin**: You also need a diploma for a Blue Card. Or 5 years experience for national work permit(Not require diploma).
 
 **Max Shirshin**: The most difficult part is time estimation. Looking for a job might take you 1 week or half a year, and there's a lot to manage before you arrive and right after you land in Berlin. Learn how to manage your time.
 
