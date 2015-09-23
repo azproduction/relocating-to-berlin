@@ -82,6 +82,10 @@ On bicycle it could take less, it is convenient  and extremely popular mean of t
 
 **Mikhail Davydov**: Social security, stable economy, it cares of environment, easy to get to any point of europe. 
 
+### How big are the taxes for foreigners?
+
+
+
 ## Relocation
 
 ### What are the main difficulties with relocation?
@@ -93,6 +97,10 @@ On bicycle it could take less, it is convenient  and extremely popular mean of t
 ### What are the main difficulties with living in Germany?
 
 **Mikhail Davydov**: Language, I guess. Locals are usually closed to non-German speaking people.
+
+### What about first-time expences when relocating? How much money it's better to have before the first payslip?
+
+
 
 ## Jobs
 
