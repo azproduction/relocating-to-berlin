@@ -96,6 +96,10 @@ Cycling could be faster in many cases, it is a convenient and extremely popular 
 
 **Max Shirshin**: The most difficult part is time estimation. Looking for a job might take you 1 week or half a year, and there's a lot to manage before you arrive and right after you land in Berlin. Learn how to manage your time.
 
+### How long does the visa process usually take? What are the basic requirements?
+
+### How much do you usually spend on food, lunches, restaraunts?
+
 ### What are the main difficulties with living in Germany?
 
 **Mikhail Davydov**: Language, I guess. Locals are usually closed to non-German speaking people.
