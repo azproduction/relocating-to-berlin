@@ -126,10 +126,13 @@ The process for getting Blue Card is as follows:
 
 ### How much do you usually spend on food, lunches, restaraunts?
 
-Lunch in a canteen for one: 3-5€
-Lunch in a cafe for one: 5-13€
-Dinner in a restaraunt for one: 8-20€
-Beer in a cafe: 2-4€
+* Lunch in a canteen for one: 3-5€
+
+* Lunch in a cafe for one: 5-13€
+
+* Dinner in a restaraunt for two: 20-40€
+
+* Beer in a cafe: 2-4€
 
 ### What are the main difficulties with living in Germany?
 
