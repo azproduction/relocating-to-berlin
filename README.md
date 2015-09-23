@@ -90,6 +90,10 @@ On bicycle it could take less, it is convenient  and extremely popular mean of t
 
 **Artem Sapegin**: You also need a diploma for a Blue Card.
 
+### How long does the visa process usually take? What are the basic requirements?
+
+### How much do you usually spend on food, lunches, restaraunts?
+
 ### What are the main difficulties with living in Germany?
 
 **Mikhail Davydov**: Language, I guess. Locals are usually closed to non-German speaking people.
