@@ -135,6 +135,8 @@ Salaries in Germany are referenced in Euros per year (no one cares about monthly
 
 ### How much tax do I pay? ###
 
+Very important advice for first year esp.: you can return a lot(>2000eu for 2 monthes) taxes because you earn less in your home land, or if you paid taxes in homeland. Ask your steuerberater for this issue.
+
 Taxes can reach 40% and more, so your gross salary is by no means the amount of money you'll be getting. Statutory medical insurance is part of your taxes already.
 
 Search Google for "German tax calculator" to calculate an estimate for your salary after taxes yourself. It's pretty accurate if you fill in the data correctly.
