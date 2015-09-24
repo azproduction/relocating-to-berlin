@@ -75,11 +75,24 @@ Another way is to scout real estate websites:
 
 Usually **all permanent apartments are empty**: only white walls, no light bulbs, no kitchen furniture, bath is always fully equipped.
 Renting fully furnitured apartment could be too expensive in terms of rental price or deposit.
-Instead of deposit you can buy deposit insurance(kautionVersicherung) and pay ~100-150 eu per year and save thousands euor of cash. * https://www.kautionskasse.de/privatkunden/moneyfix/
 
 **Mikhail Davydov**: One fully furniture offer had 5000 Euro deposit.
 I was looking for an flat with kitchen, because in case you are moving to a new place,
 it is easier to move everything but kitchen stuff. Usually all new flats have a kitchen furniture installed.
+
+### What is the difference between cold and warm rental price?
+
+ - Cold price (Kaltmiete) includes the price for the "walls" only.
+ - Warm price (Warmmiete) is a Kaltmiete plus additional fee for services: water, heating and garbage utilisation and so on. All fees **are calculated statiscically**.
+
+At the end of the rental year or once a half a year, you will receive a calculation paper about your water and heating spendings. So at this point you will have the actual price for the services. If you exceeded statistically calculated values you will need to pay the difference. Electricity is payed separetly.
+
+**Mikhail Davydov**: Paying 500-1000 Euro extra at the end of the year is fine. Small difference between Kaltmiete and Warmmiete meens that no one was living there for a some time. So 70 Euro difference is too little, more real values are around 200 Euro depending on the square meters of apt. Be aware of it.
+
+### Is there a Deposit for an apartement?
+
+For the most places it will be required to transfer a deposit (Kaution) to an account of landlord or renting company. Usual Kaution is 300% of cold rent price. Additional deposit is also possible.
+Instead of transferring deposit you can buy deposit insurance(Kautionsversicherung) and pay ~100-150 Euro per year and save thousands Euro of cash. See https://www.kautionskasse.de/privatkunden/moneyfix/
 
 ## Commute
 
