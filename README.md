@@ -183,7 +183,9 @@ Have a well-written profile on http://linkedin.com (a must) and http://xing.de (
 Scout offers on startup jobs or websites of big local companies. Get in touch with recruitment companies but avoid signing any contracts that would legally bind you before you find a job (typically, you don't need a contract with a recruiter).
 
 **Mikhail Davydov**: I found mine on Twitter, actually. https://angel.co/ – this one has a big offer list of startup companies.
+
 **Artem Sapegin**: [Stack Overflow](http://careers.stackoverflow.com/cities/berlin) and [Berlin Startup Jobs](http://berlinstartupjobs.com/) are also very good.
+
 **Max Shirshin**: Found mine with the help from [Vertex Solutions](http://www.vertex-solutions.co.uk)
 
 ### How do I find a non-IT job (e.g. for my spouse who is not a developer)? Is it possible?
