@@ -120,6 +120,13 @@ have a diploma. But this is to be confirmed.
 You need all the usual stuff like passport, CV etc translated into English
 or German.
 
+Prerequirements:
+
+1. Diploma in a related field.
+2. Signed work contract for a premanent position with salary no less than 47600 Euro per year gross. In case you are IT-Specialist, doctor, methematican or schentist is could be reduced to 37128 Euro per year gross. (valid for 2015)
+
+**Mikhail Davydov**: I've heared a case, when one IT-Specialist got rejection having salary closer to 37128 Euro.
+
 The process for getting Blue Card is as follows:
 
 1. You translate all your documents (passport, diploma, CV) and send it to
@@ -138,6 +145,7 @@ The process for getting Blue Card is as follows:
    register. Once you are registered, you can exchange your temporary work
    permit to Blue Card.
 
+*Laws can be changed, please veryfy everything with your future employer.*
 
 ### How much do you usually spend on food, lunches, restaurants?
 
