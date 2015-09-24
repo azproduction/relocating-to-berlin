@@ -71,9 +71,9 @@ Another way is to scout real estate websites:
 
 **Max Shirshin**: I decided to skip all the non-agent offers after I had to stand in a queue of 30 or so people — just to have a look at an apartment and have a chance to file all my papers.
 
-### Can I find a fully furnitured apartment?
+### Can I find a permanent fully furnitured apartment?
 
-Usually **all apartments are empty**: only white walls, no light bulbs, no kitchen furniture, bath is always fully equipped.
+Usually **all permanent apartments are empty**: only white walls, no light bulbs, no kitchen furniture, bath is always fully equipped.
 Renting fully furnitured apartment could be too expensive in terms of rental price or deposit.
 
 **Mikhail Davydov**: One fully furniture offer had 5000 Euro deposit.
