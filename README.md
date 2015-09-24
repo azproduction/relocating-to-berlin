@@ -71,6 +71,15 @@ Another way is to scout real estate websites:
 
 **Max Shirshin**: I decided to skip all the non-agent offers after I had to stand in a queue of 30 or so people — just to have a look at an apartment and have a chance to file all my papers.
 
+### Can I find a fully furnitured apartment?
+
+Usually **all apartments are empty**: only white walls, no light bulbs, no kitchen furniture, bath is always fully equipped.
+Renting fully furnitured apartment could be too expensive in terms of rental price or deposit.
+
+**Mikhail Davydov**: One fully furniture offer had 5000 Euro deposit.
+I was looking for an flat with kitchen, because in case you are moving to a new place,
+it is easier to move everything but kitchen stuff. Usually all new flats have a kitchen furniture installed.
+
 ## Commute
 
 ### How much time does it take to get from home to the office?
@@ -133,11 +142,8 @@ The process for getting Blue Card is as follows:
 ### How much do you usually spend on food, lunches, restaurants?
 
 * Lunch in a canteen for one: 3-5€
-
 * Lunch in a cafe for one: 5-13€
-
 * Dinner in a restaurant for two: 20-40€
-
 * Beer in a cafe: 2-4€
 
 ### What are the main difficulties with living in Germany?
@@ -145,6 +151,18 @@ The process for getting Blue Card is as follows:
 **Mikhail Davydov**: Language, I guess. Locals are usually closed to non-German speaking people.
 
 **Max Shirshin**: Motivation to make a second integration step. Your relocation is your first step, but a lot of people won't make a second one. Change your cultural patterns, visit German-speaking places whenever possible, and stop comparing everything you see around to your ex-home country/city.
+
+### What about first-time expences when relocating?
+
+For a first 1 or 2 months you will most likely living in the all-inclusive fully furnitured apartment,
+so besides paying for the rent there will be no extra payments. Usually it is +30-40% to the price of the "normal" apartment.
+Big companies are usually paying for you flight tickets and could give you a non-interest loan (ask during interview).
+
+**Mikhail Davydov**: The only big thing I can recall, is that I spent 175 Euro fee for making BlueCard and Visa for my wife.
+
+### How much money it's better to have before the first payslip?
+
+Basically, one monthly salary (in Berlin) should be enough.
 
 ## Jobs
 
@@ -173,11 +191,13 @@ It depends on many factors, please refer to the job posting websites like https:
 
 If you're OK with very imprecise estimations, IT professionals in Berlin earn 45000-70000 Euro per year "gross" (before taxes).
 
-### How Germans describe salaries? ###
+### How Germans describe salaries?
 
 Salaries in Germany are referenced in Euros per year (no one cares about monthly amount). Whenever you get a quote, it's always before taxes (it's called gross salary). Your potential employer can usually give you a rough estimate on net salary (after-taxes) on request, but you'd have to provide some extra data like age, marital status, info on your kids etc.
 
-### How much tax do I pay? ###
+## Taxes and Payments
+
+### How much tax do I pay?
 
 Very important advice for first year esp.: you can return a lot(>2000eu for 2 monthes) taxes because you earn less in your home land, or if you paid taxes in homeland. Ask your steuerberater for this issue.
 
@@ -187,7 +207,11 @@ Search Google for "German tax calculator" to calculate an estimate for your sala
 
 Seek professional advice even if you think you don't need any. Tax law is quite complicated. Your home country may have important requirements for you if you work abroad, or extra taxes to be payed. Your office buddies are not a good source of critical financial information.
 
-### Are there any obligatory payments in addition to standard taxes? ###
+### How big are the taxes for foreigners?
+
+The same tax rates are applied to foreigners.
+
+### Are there any obligatory payments in addition to standard taxes?
 
 Statutory medical insurance is included into taxes (but private is not). You also have to pay sort of a tax for using wireless services like radio and television — even if you don't use those at all. It's about 18 Euro a month, you pay that separately, and no, you can't let it slide.
 
