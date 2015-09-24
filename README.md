@@ -96,6 +96,50 @@ Cycling could be faster in many cases, it is a convenient and extremely popular 
 
 **Max Shirshin**: The most difficult part is time estimation. Looking for a job might take you 1 week or half a year, and there's a lot to manage before you arrive and right after you land in Berlin. Learn how to manage your time.
 
+### How long does the visa process usually take? What are the basic requirements?
+
+If we are talking about Blue Card, it takes about a month to prepare all
+the necessary documents.
+
+This process is only valid for those, whose diploma is accepted in
+Germany. You can check if your diploma is accepted [on
+Anabin](http://anabin.kmk.org/).
+
+I've heard that with 5 or 10 years of experience you are not required to
+have a diploma. But this is to be confirmed.
+
+You need all the usual stuff like passport, CV etc translated into English
+or German.
+
+The process for getting Blue Card is as follows:
+
+1. You translate all your documents (passport, diploma, CV) and send it to
+   your future employer. It can be done in a week.
+
+2. Employer sends all the docs about you, company, your future position to
+   the Ministry of Labor for approval. Once you have the approval, visa is
+   just a formality. Approval process can take a week or two.
+
+3. You take all the documents about you, company and your future position
+   together with approval from the Ministry of Labor to German embassy in
+   your country. In a week or so they give you a 3-month work permit. With
+   it you should be able to move to Germany and start working.
+
+4. Once in Germany you sign up for a bank account, find an apartment and
+   register. Once you are registered, you can exchange your temporary work
+   permit to Blue Card.
+
+
+### How much do you usually spend on food, lunches, restaurants?
+
+* Lunch in a canteen for one: 3-5€
+
+* Lunch in a cafe for one: 5-13€
+
+* Dinner in a restaurant for two: 20-40€
+
+* Beer in a cafe: 2-4€
+
 ### What are the main difficulties with living in Germany?
 
 **Mikhail Davydov**: Language, I guess. Locals are usually closed to non-German speaking people.
