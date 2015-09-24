@@ -75,6 +75,7 @@ Another way is to scout real estate websites:
 
 Usually **all permanent apartments are empty**: only white walls, no light bulbs, no kitchen furniture, bath is always fully equipped.
 Renting fully furnitured apartment could be too expensive in terms of rental price or deposit.
+Instead of deposit you can buy deposit insurance(kautionVersicherung) and pay ~100-150 eu per year and save thousands euor of cash. * https://www.kautionskasse.de/privatkunden/moneyfix/
 
 **Mikhail Davydov**: One fully furniture offer had 5000 Euro deposit.
 I was looking for an flat with kitchen, because in case you are moving to a new place,
