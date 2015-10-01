@@ -83,7 +83,7 @@ it is easier to move everything but kitchen stuff. Usually all new flats have a 
 ### What is the difference between cold and warm rental price?
 
  - Cold price (Kaltmiete) includes the price for the "walls" only.
- - Warm price (Warmmiete) is a Kaltmiete plus additional fee for services: water, heating and garbage utilisation and so on. All fees **are calculated statiscically**.
+ - Warm price (Warmmiete) is a Kaltmiete plus additional fee for services: water, heating and garbage utilisation and so on. All fees **are calculated statistically**.
 
 At the end of the rental year or once a half a year, you will receive a calculation paper about your water and heating spendings. So at this point you will have the actual price for the services. If you exceeded statistically calculated values you will need to pay the difference. Electricity is payed separetly.
 
