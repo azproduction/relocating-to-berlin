@@ -6,6 +6,40 @@ Q&amp;A about relocating to Berlin, Germany. All answers are based on our own ex
 
 Please, create an [Issue](https://github.com/azproduction/relocating-to-berlin/issues/new) or a Pull Request. 
 Questions are accepted in **English** (in case it is difficult for you to express yourself in English we could consider Russian as well).
+
+### TOC
+
+- [Language](#language)
+ - [What level of English is expected from job applicants?](#what-level-of-english-is-expected-from-job-applicants)
+ - [Is it a good idea to learn German in advance?](#is-it-a-good-idea-to-learn-german-in-advance)
+ - [Can I live without knowing German?](#can-i-live-without-knowing-german)
+- [Apartment](#apartment)
+ - [Is it difficult to rent an apartment for non-Germans?](#is-it-difficult-to-rent-an-apartment-for-non-germans)
+ - [How expensive are the apartments?](#how-expensive-are-the-apartments)
+ - [How do I find an apartment?](#how-do-i-find-an-apartment)
+ - [Can I find a permanent fully furnitured apartment?](#can-i-find-a-permanent-fully-furnitured-apartment)
+ - [What is the difference between cold and warm rental price?](#what-is-the-difference-between-cold-and-warm-rental-price)
+ - [Is there a Deposit for an apartement?](#is-there-a-deposit-for-an-apartement)
+- [Commute](#commute)
+ - [How much time does it take to get from home to the office?](#how-much-time-does-it-take-to-get-from-home-to-the-office)
+- [General topics](#general-topics)
+ - [Why is Germany better than other countries?](#why-is-germany-better-than-other-countries)
+- [Relocation](#relocation)
+ - [What are the main difficulties with relocation?](#what-are-the-main-difficulties-with-relocation)
+ - [How long does the visa process usually take? What are the basic requirements?](#how-long-does-the-visa-process-usually-take-what-are-the-basic-requirements)
+ - [How much do you usually spend on food, lunches, restaurants?](#how-much-do-you-usually-spend-on-food-lunches-restaurants)
+ - [What are the main difficulties with living in Germany?](#what-are-the-main-difficulties-with-living-in-germany)
+ - [What about first-time expences when relocating?](#what-about-first-time-expences-when-relocating)
+ - [How much money it's better to have before the first payslip?](#how-much-money-its-better-to-have-before-the-first-payslip)
+- [Jobs](#jobs)
+ - [How do I find an IT job?](#how-do-i-find-an-it-job)
+ - [How do I find a non-IT job (e.g. for my spouse who is not a developer)? Is it possible?](#how-do-i-find-a-non-it-job-eg-for-my-spouse-who-is-not-a-developer-is-it-possible)
+ - [What kind of salary range should I expect?](#what-kind-of-salary-range-should-i-expect)
+ - [How Germans describe salaries?](#how-germans-describe-salaries)
+- [Taxes and Payments](#taxes-and-payments)
+ - [How much tax do I pay?](#how-much-tax-do-i-pay)
+ - [How big are the taxes for foreigners?](#how-big-are-the-taxes-for-foreigners)
+ - [Are there any obligatory payments in addition to standard taxes?](#are-there-any-obligatory-payments-in-addition-to-standard-taxes)
  
 ## Language
 
