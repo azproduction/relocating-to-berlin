@@ -228,7 +228,9 @@ Basically, one monthly salary (in Berlin) should be enough.
 ### How do I find an IT job?
 
 Have a well-written profile on http://linkedin.com (a must) and http://xing.de (not really required). 
-Scout offers on startup jobs or websites of big local companies. Get in touch with recruitment companies but avoid signing any contracts that would legally bind you before you find a job (typically, you don't need a contract with a recruiter).
+Scout offers on startup jobs or websites of big local companies. [4scotty](https://4scotty.com) provides a platform that you can rate your skills, upload your portfolio, once everything is ready, companies can directly get in touch with you and you can decide whether or not to accept the interview invitation.
+
+Get in touch with recruitment companies but avoid signing any contracts that would legally bind you before you find a job (typically, you don't need a contract with a recruiter).
 
 **Mikhail Davydov**: I found mine on Twitter, actually. https://angel.co/ – this one has a big offer list of startup companies.
 
