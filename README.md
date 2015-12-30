@@ -196,7 +196,7 @@ The process for getting Blue Card is as follows:
 
 All other information can be found here http://www.bluecard-eu.de/
 
-*Laws and rules can be changed, please veryfy everything with your future employer.*
+*Laws and rules can be changed, please verify everything with your future employer.*
 
 ### How much do you usually spend on food, lunches, restaurants?
 
