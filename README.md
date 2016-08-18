@@ -47,28 +47,28 @@ Questions are accepted in **English** (in case it is difficult for you to expres
 
 Fluent English is a must. You should easily cover any IT topics, including those you are not familiar with.
 For example, if you are specializing in Frontend, try to explain what BEM (Block Element Modifier pattern) is, or what is the
-difference between static, absolute and relative positioning in CSS, or explain how Promises work to a non-developer.
+difference between static, absolute, and relative positioning in CSS, or explain how Promises work to a non-developer.
 
 ### Is it a good idea to learn German in advance?
 
-Yes, up to a certain level. Having A1 would be very helpful at the beginning, although it is not mandatory and you can survive without German, too.  
+Yes, up to a certain level. Having A1 would be very helpful at the beginning, although it is not mandatory and you can survive without German, too. Germans with higher education mostly enjoy speaking English, so it's possible to get along in everyday life.
 
 ### Can I live without knowing German?
 
 Yes, but it will be tough for the first time, especially in Bürgeramt (most likely) or in Ausländerbehörde (less likely).
-Also your Hausmeister (the guy who is looking after the house you are renting apartment in), most likely will speak German only.
-In some institutions it is mandatory to speak German even to a foreigner and even if a person knows English.
+Also your Hausmeister (the German word for janitor), most likely will speak German only.
+In some institutions it is mandatory to speak German even for a foreigner and even if a person knows English.
 In most places, however, you'll be able to converse in English.
 
 ## Apartment
 
 ### Is it difficult to rent an apartment for non-Germans? 
 
-Same rules are applied to Germans and non-Germans with a valid residence permit.
+Same rules are applied to Germans and Non-Germans with a valid residence permit.
 A landlord usually does not care much from where you are, but will most likely be interested in you current salary level. 
+It's helpful to just show your contract and make sure to point out that you're going to stay in Germany for longer.
 Without a German bank account, it's impossible to rent anything decent. First pay slip along with a bank statement would also help.
-Usually it takes 2-3 month to find a good apartment, because there are some lower quality or overpriced places, or there are
-20+ applicants for one apartment.
+Usually it takes 2-3 months to find a good apartment, because there's a high demand for housing and prices are going up. Therefore, there are often some lower quality or overpriced places, or there are 20+ applicants for one apartment.
 
 **Mikhail Davydov**: I found one in 2 weeks, but it was an ultimate luck, before that I was renting an apartment on AirBnB 
 for 2 months.
@@ -85,6 +85,14 @@ As of May 2015, the cold prices of the apartments (without heating or extra serv
  * 2 bed rooms - 850-1000 Euro
  * 3 bed rooms - 1000-1200 Euro
  
+In general, there are more and less expensive cities. As of 2016, the cities with the highest rents are:
+
+ * Munich: 15,48 €/m²
+ * Frankfurt: 12,68 €/m²
+ * Stuttgart: 12,34 €/m²
+
+Make sure to plan ahead of time if you're planning to find a room in these cities. Check the [full list at Statista](http://de.statista.com/statistik/daten/studie/1885/umfrage/mietpreise-in-den-groessten-staedten-deutschlands/)
+
 For more precise prices, please refer to one of the local real estate websites:
 
  * http://immobilienscout24.de
@@ -93,13 +101,7 @@ For more precise prices, please refer to one of the local real estate websites:
 
 ### How do I find an apartment?
 
-There are several common ways. First, you can find an agent. Agents offer you the best apartments in terms of price/quality ratio, but it will cost you 119-238% of the apartment cold price.
-
-Another way is to scout real estate websites:
-
- * http://immobilienscout24.de
- * http://immowelt.de
- * http://immonet.de
+Most of the offers at real estate websites (see above) are from agents. Agents offer you the best apartments in terms of price/quality ratio, but it will cost you 119-238% (rather the latter) of the monthly net rent (rent exclusive of other costs, like heating). Finding an agent that really helps you finding an appartment is highly unlikely as there is such a high demand for housing and they mostly make their money by inserting flats on the real estate websites.
  
 **Mikhail Davydov**: I was trying to find a flat on immobilienscout24, all non-agent offers had very poor quality. All agent's flats were very nice.
 
@@ -107,7 +109,9 @@ Another way is to scout real estate websites:
 
 ### Can I find a permanent fully furnitured apartment?
 
-Usually **all permanent apartments are empty**: only white walls, no light bulbs, no kitchen furniture, bath is always fully equipped.
+Usually **all permanent apartments are empty**: no furniture, only white walls, mostly just light bulbs. 
+The chances of kitchen furniture are around 50:50, you then have to buy the kitchen or make a deposit. 
+The bath is always fully equipped.
 Renting fully furnitured apartment could be too expensive in terms of rental price or deposit.
 
 **Mikhail Davydov**: One fully furniture offer had 5000 Euro deposit.
@@ -117,23 +121,29 @@ it is easier to move everything but kitchen stuff. Usually all new flats have a 
 ### What is the difference between cold and warm rental price?
 
  - Cold price (Kaltmiete) includes the price for the "walls" only.
- - Warm price (Warmmiete) is a Kaltmiete plus additional fee for services: water, heating and garbage utilisation and so on. All fees **are calculated statistically**.
+ - Warm price (Warmmiete) is a Kaltmiete plus additional fee for services: water, heating and garbage utilisation and so on. All fees **are calculated statistically**. Make sure to ask for the Warmmiete as heating costs can differ a lot depending on isolation and heating technology.
 
-At the end of the rental year or once a half a year, you will receive a calculation paper about your water and heating spendings. So at this point you will have the actual price for the services. If you exceeded statistically calculated values you will need to pay the difference. Electricity is payed separetly.
+At the end of the rental year or once a half a year, you will receive a calculation paper about your water and heating spendings. So at this point you will have the actual price for the services. If you exceeded statistically calculated values you will need to pay the difference and your monthly rate is changed accordingly. Electricity is paid separetly.
 
 **Mikhail Davydov**: Paying 500-1000 Euro extra at the end of the year is fine. Small difference between Kaltmiete and Warmmiete meens that no one was living there for a some time. So 70 Euro difference is too little, more real values are around 200 Euro depending on the square meters of apt. Be aware of it.
 
 ### Is there a Deposit for an apartement?
 
-For the most places it will be required to transfer a deposit (Kaution) to an account of landlord or renting company. Usual Kaution is 300% of cold rent price. Additional deposit is also possible.
-Instead of transferring deposit you can buy deposit insurance(Kautionsversicherung) and pay ~100-150 Euro per year and save thousands Euro of cash. See https://www.kautionskasse.de/privatkunden/moneyfix/
+For the most places it will be required to transfer a deposit (Kaution) to a neutral bank account (Mietkautionskonto). 
+In some cases landlord or renting company prefer their own accounts but you're not required to oblige.
+If it's on a neutral account, the landlord has harder access to it and cannot use it for his personal expenses.
+You can either play along and hope their are no disputes or insist on a neutral account.
+The Kaution can be up to three times of the cold rent price. 
+Additional deposit is also common but unlawful for the landlord.
+Instead of transferring deposit you can buy deposit insurance (Kautionsversicherung) and pay ~100-150 Euro per year and save thousands Euro of cash. See [Kautionskasse](https://www.kautionskasse.de/privatkunden/moneyfix/)
 
 ## Commute
 
 ### How much time does it take to get from home to the office?
 
 From zone B to zone A, or through zone A, it usually takes 30 minutes or less. 
-Cycling could be faster in many cases, it is a convenient and extremely popular means of transportation in Berlin.
+Cycling could be faster in many cases, it is a convenient and extremely popular means of transportation in Berlin and other German cities.
+Google maps usually shows you the fastest routes including public transportation.
 
 ## General topics
 
@@ -155,24 +165,21 @@ Cycling could be faster in many cases, it is a convenient and extremely popular 
 
 ### How long does the visa process usually take? What are the basic requirements?
 
-If we are talking about Blue Card, it takes about a month to prepare all
-the necessary documents.
+If we are talking about Blue Card, it takes about a month to prepare all the necessary documents.
 
-This process is only valid for those, whose diploma is accepted in
-Germany or you are a specialist in information and communication technology. 
+This process is only valid for those, whose diploma is accepted in Germany or you are a specialist in information and communication technology. 
 You can check if your diploma is accepted on [Anabin](http://anabin.kmk.org/).
 
 > If, as a national from another non-EU state, you **do not have a university degree**, nor have you completed vocational training in Germany, but are a **specialist in information and communication technology**, a work permit **can principally be granted** to you.
 
 [Source](http://www.bluecard-eu.de/eu-blue-card-germany/work-permit.html#information-communication-technology)
 
-You need all the usual stuff like passport, CV etc translated into English
-or German.
+You need all the usual stuff like passport, CV etc translated into English or German.
 
 Prerequirements:
 
 1. Diploma in a related field or equivalent experience as IT-specialist.
-2. Signed work contract for a premanent position with salary no less than 47600 Euro per year gross. In case you are IT-Specialist, doctor, methematican or schentist is could be reduced to 37128 Euro per year gross. (valid for 2015)
+2. Signed work contract for a premanent position with salary no less than 47600 Euro per year gross. In case you are IT specialist, doctor, methematican or schentist is could be reduced to 37128 Euro per year gross. (valid for 2015)
 
 **Mikhail Davydov**: I've heared a case, when one IT-Specialist got rejection having salary closer to 37128 Euro.
 
@@ -227,8 +234,9 @@ Basically, one monthly salary (in Berlin) should be enough.
 
 ### How do I find an IT job?
 
-Have a well-written profile on http://linkedin.com (a must) and http://xing.de (not really required). 
+Have a well-written profile on [LinkedIn](http://linkedin.com) (a must) and  [Xing](http://xing.de) (not really required). 
 Scout offers on startup jobs or websites of big local companies. [4scotty](https://4scotty.com) provides a platform that you can rate your skills, upload your portfolio, once everything is ready, companies can directly get in touch with you and you can decide whether or not to accept the interview invitation.
+There are also specialized comanies for relocation to Germany, for example [German IT Jobs](http://germanitjobs.com). They offer jobs for foreigners with relocation benefits (payment of moving costs, help in finding a flat and opening a bank account, etc.).
 
 Get in touch with recruitment companies but avoid signing any contracts that would legally bind you before you find a job (typically, you don't need a contract with a recruiter).
 
@@ -250,25 +258,27 @@ in Finanzamt as Kleinunternehmer (for instance) at the beginning.
 
 ### What kind of salary range should I expect? 
 
-It depends on many factors, please refer to the job posting websites like https://angel.co/ or http://berlinstartupjobs.com/
+[Teleport](https://teleport.org/cities/berlin/) gives a quick overview of Berlin and other cities, including salary for several jobs and quality of life.
+
+It depends on many factors, please refer to the job posting websites like [angel.co](https://angel.co/) or [Berlin Startup Jobs](http://berlinstartupjobs.com/)
 
 If you're OK with very imprecise estimations, IT professionals in Berlin earn 45000-70000 Euro per year "gross" (before taxes).
 
 ### How Germans describe salaries?
 
-Salaries in Germany are referenced in Euros per year (no one cares about monthly amount). Whenever you get a quote, it's always before taxes (it's called gross salary). Your potential employer can usually give you a rough estimate on net salary (after-taxes) on request, but you'd have to provide some extra data like age, marital status, info on your kids etc.
+Salaries in Germany are referenced in Euros per year (no one cares about monthly amount). Whenever you get a quote, it's always before taxes (it's called gross salary "brutto"). Your potential employer can usually give you a rough estimate on net salary (after-taxes, "netto") on request, but you'd have to provide some extra data like age, marital status, info on your kids, etc.
 
 ## Taxes and Payments
 
 ### How much tax do I pay?
 
-Very important advice for first year esp.: you can return a lot(>2000eu for 2 monthes) taxes because you earn less in your home land, or if you paid taxes in homeland. Ask your steuerberater for this issue.
+Very important advice for first year esp.: you can return a lot(>2000€ for 2 monthes) taxes because you earn less in your home land, or if you paid taxes in homeland. Ask your Steuerberater for this issue.
 
 Taxes can reach 40% and more, so your gross salary is by no means the amount of money you'll be getting. Statutory medical insurance is part of your taxes already.
 
 Search Google for "German tax calculator" to calculate an estimate for your salary after taxes yourself. It's pretty accurate if you fill in the data correctly.
 
-Seek professional advice even if you think you don't need any. Tax law is quite complicated. Your home country may have important requirements for you if you work abroad, or extra taxes to be payed. Your office buddies are not a good source of critical financial information.
+Seek professional advice even if you think you don't need any. Tax law is quite complicated. Your home country may have important requirements for you if you work abroad, or extra taxes to be payed. Your office buddies are not a good source of critical financial information. Germans are strict with these issues and don't joke around. Stuff like this can get you into serious trouble.
 
 ### How big are the taxes for foreigners?
 
