@@ -1,3 +1,5 @@
+![The Reichstag in Berlin, Germany](berlin-reichstag.jpg)
+
 # Relocating to Berlin
 
 Q&amp;A about relocating to Berlin, Germany. All answers are based on our own experience. 
@@ -324,3 +326,7 @@ And you still have to pay your rent :)
 # Authors
 
 All authors who contribute to the answers are listed in [AUTHORS](AUTHORS).
+
+# Credits
+
+Image by [risconcrivale](https://pixabay.com/en/users/risconcrivale-778835/) from Pixabay.
