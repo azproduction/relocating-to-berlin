@@ -1,3 +1,5 @@
+![The Reichstag in Berlin, Germany](berlin-reichstag.jpg)
+
 # Relocating to Berlin
 
 Q&amp;A about relocating to Berlin, Germany. All answers are based on our own experience. 
@@ -20,6 +22,7 @@ Questions are accepted in **English** (in case it is difficult for you to expres
  - [Can I find a permanent fully furnitured apartment?](#can-i-find-a-permanent-fully-furnitured-apartment)
  - [What is the difference between cold and warm rental price?](#what-is-the-difference-between-cold-and-warm-rental-price)
  - [Is there a Deposit for an apartement?](#is-there-a-deposit-for-an-apartement)
+ - [Which ISP is the best](#which-isp-is-the-best)
 - [Commute](#commute)
  - [How much time does it take to get from home to the office?](#how-much-time-does-it-take-to-get-from-home-to-the-office)
 - [General topics](#general-topics)
@@ -136,6 +139,36 @@ You can either play along and hope their are no disputes or insist on a neutral 
 The Kaution can be up to three times of the cold rent price. 
 Additional deposit is also common but unlawful for the landlord.
 Instead of transferring deposit you can buy deposit insurance (Kautionsversicherung) and pay ~100-150 Euro per year and save thousands Euro of cash. See [Kautionskasse](https://www.kautionskasse.de/privatkunden/moneyfix/)
+
+### Which ISP is the best?
+There are a lot of national/regional ISPs in Germany.
+Also connection speeds differ a lot depending on your location (better in cities > 16 Mbps, unbearably slow on the countryside < 3 Mbps).
+Always make sure to check the internet speed at the ISPs website before subscribing, as the advertised speed is the maximum and not the actual speed.
+By law, the ISP is required to deliver at least 50% of the promised speed, so please bear in mind that your connection can be slower (~10% chance).
+
+Connection types are:
+* DSL or landline: 
+  slow, reliable, expensive
+  ~16 Mbps for 25€ 
+  (Telekom, 1&1, Vodafone, O2, and others)
+* Cable: 
+  fast, unreliable, cheap
+  ~50 Mbps for ~35€ 
+  (Unitymedia, Kabel Deutschland)
+* UMTS/HSDPA and LTE: 
+  can be fast in cities, unreliable, expensive
+  varying speeds limited to 3GB from ~8€ 
+  (most of the above and mobile carriers, check mobilcom)
+
+Trivia:
+* Most ISPs throttle your connection if you reach several Gigybayte a day
+* Traffic shaping is applied especially for file-sharing (don't do it, they'll catch you)
+* Most contracts come together with telephone (landline), for cable providers with private television, and sometimes with mobile contracts (choose cheaper options if you don't need it)
+* Cable providers lure you with high connection speeds, have two-year contracts, but unreliable networks (packet loss and slower speeds from time to time)
+* Order by internet, shops and hotline employees get a bonus if you sign and thus have a conflict of interest.
+* You are liable for your connection meaning that you could get in trouble for everything someone does while connected to your WLAN. (see Störerhaftung)
+
+Wikipedia has a good article on [Internet in Germany](https://en.wikipedia.org/wiki/Internet_in_Germany)
 
 ## Commute
 
@@ -293,3 +326,7 @@ And you still have to pay your rent :)
 # Authors
 
 All authors who contribute to the answers are listed in [AUTHORS](AUTHORS).
+
+# Credits
+
+Image by [risconcrivale](https://pixabay.com/en/users/risconcrivale-778835/) from Pixabay.
