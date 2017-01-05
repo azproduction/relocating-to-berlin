@@ -161,7 +161,7 @@ Connection types are:
   (most of the above and mobile carriers, check mobilcom)
 
 Trivia:
-* Most ISPs throttle your connection if you reach several Gigabyte a day
+* Some ISPs throttle your connection if you reach several Gigabytes a day
 * Traffic shaping is applied especially for file-sharing (don't do it, they'll catch you)
 * Most contracts come together with telephone (landline), for cable providers with private television, and sometimes with mobile contracts (choose cheaper options if you don't need it)
 * Cable providers lure you with high connection speeds, have two-year contracts, but unreliable networks (packet loss and slower speeds from time to time)
