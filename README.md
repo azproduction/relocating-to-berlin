@@ -172,6 +172,8 @@ Wikipedia has a good article on [Internet in Germany](https://en.wikipedia.org/w
 
 **Mikhail Davydov**: All these connections are pretty much depend on your house. If it is old and not reinovated - bad luck. Most likely you will have slow internet connection via ADSL (could be 6Mbps). All new buildings have in most cases cable connection and bandwidths up to 400Mbps. In some cases you will have just 1 internet provider serving your house. Getting contract and actual internet connection is another story... All big name companies like T-Mobile and O2 are extremely slow. With these guys be ready for minimum 1 month without internet after signing a contract. Kabel Deutschland, Telecolumbus and other smaller providers and very flexible so they will just deliver a modem to your place so you can connect it yourself and already have internet 3 days after signing a contract! Mine was delivered withing a week. 
 
+**Phil Plückthun**: If you choose to get a Cable internet connection, most older buildings will need a technician to come over. The ISP's cover most buildings in Berlin, but do check on their website for the provided speeds and whether the flat is in the service area, before just going ahead and renting a flat. TeleColumbus has good network speeds and decent reliability. Sometimes you will need to restart the modem and at least once a week the connection becomes unstable or even unavailable for 1-2 hours. TeleColumbus offers contracts with a minimum term of 12 months, if you move flats they will help you get set up at a new place, or if you move to another country (or generally where their service is not available) they allow you to cancel the contract early (though it's not they're not obligated to!). By the way, Deutsche Telekom is known for their terrible customer service.
+
 ## Commute
 
 ### How much time does it take to get from home to the office?
@@ -280,6 +282,8 @@ Get in touch with recruitment companies but avoid signing any contracts that wou
 **Artem Sapegin**: [Stack Overflow](http://careers.stackoverflow.com/cities/berlin) and [Berlin Startup Jobs](http://berlinstartupjobs.com/) are also very good.
 
 **Max Shirshin**: Found mine with the help from [Vertex Solutions](http://www.vertex-solutions.co.uk)
+
+**Phil Plückthun**: Most startups are all on [Angellist](https://angel.co/). If you're looking for a job in Tech, you can usually find places to interview at in just a week.
 
 ### How do I find a non-IT job (e.g. for my spouse who is not a developer)? Is it possible?
 
