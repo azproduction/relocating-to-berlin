@@ -161,12 +161,14 @@ Connection types are:
   (most of the above and mobile carriers, check mobilcom)
 
 Trivia:
-* Most ISPs throttle your connection if you reach several Gigybayte a day
+* Most ISPs throttle your connection if you reach several Gigabyte a day
 * Traffic shaping is applied especially for file-sharing (don't do it, they'll catch you)
 * Most contracts come together with telephone (landline), for cable providers with private television, and sometimes with mobile contracts (choose cheaper options if you don't need it)
 * Cable providers lure you with high connection speeds, have two-year contracts, but unreliable networks (packet loss and slower speeds from time to time)
 * Order by internet, shops and hotline employees get a bonus if you sign and thus have a conflict of interest.
 * You are liable for your connection meaning that you could get in trouble for everything someone does while connected to your WLAN. (see Störerhaftung)
+* Contracts usually have a minimum term of 12 months or more but can be carried over to new flats.
+* In case you move out of your providers service area, you can cancel the contract at any time until the end of the month. (see DSL Sonderkündigungsrecht)
 
 Wikipedia has a good article on [Internet in Germany](https://en.wikipedia.org/wiki/Internet_in_Germany)
 
@@ -176,7 +178,8 @@ Wikipedia has a good article on [Internet in Germany](https://en.wikipedia.org/w
 The ISPs cover a lot of buildings in Berlin, but do check on their website for the provided speeds and whether the flat is located in the ISP's service area, before just going ahead and renting a flat.
 TeleColumbus has good network speeds and decent reliability. Sometimes you will need to restart the modem, and at least once a week the connection becomes unstable or even unavailable for 1-2 hours.
 TeleColumbus offers contracts with a minimum term of 12 months. If you move flats they will help you get set up there as well.
-If you move to another country (or generally where their service is not available) they allow you to cancel the contract early (though it's not they're not obligated to!). By the way, Deutsche Telekom is known for their terrible customer service.
+If you move to another country (or generally where their service is not available) they bound by law to allow you to cancel the contract early.
+By the way, Deutsche Telekom is known for their terrible customer service.
 
 ## Commute
 
