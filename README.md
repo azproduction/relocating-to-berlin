@@ -141,6 +141,7 @@ Additional deposit is also common but unlawful for the landlord.
 Instead of transferring deposit you can buy deposit insurance (Kautionsversicherung) and pay ~100-150 Euro per year and save thousands Euro of cash. See [Kautionskasse](https://www.kautionskasse.de/privatkunden/moneyfix/)
 
 ### Which ISP is the best?
+
 There are a lot of national/regional ISPs in Germany.
 Also connection speeds differ a lot depending on your location (better in cities > 16 Mbps, unbearably slow on the countryside < 3 Mbps).
 Always make sure to check the internet speed at the ISPs website before subscribing, as the advertised speed is the maximum and not the actual speed.
@@ -154,7 +155,7 @@ Connection types are:
 * Cable:
   fast, unreliable, cheap
   ~50 Mbps for ~35€
-  (Unitymedia, Kabel Deutschland)
+  (Unitymedia, Kabel Deutschland, TeleColumbus)
 * UMTS/HSDPA and LTE:
   can be fast in cities, unreliable, expensive
   varying speeds limited to 3GB from ~8€
@@ -162,7 +163,8 @@ Connection types are:
 
 Trivia:
 * Some ISPs throttle your connection if you reach several Gigabytes a day
-* Traffic shaping is applied especially for file-sharing (don't do it, they'll catch you)
+* Traffic shaping is applied especially for file-sharing
+* In Germany File-sharing / Torrenting is heavily monitored by entertainment companies and you can expect a letter from a lawyer if they catch you
 * Most contracts come together with telephone (landline), for cable providers with private television, and sometimes with mobile contracts (choose cheaper options if you don't need it)
 * Cable providers lure you with high connection speeds, have two-year contracts, but unreliable networks (packet loss and slower speeds from time to time)
 * Order by internet, shops and hotline employees get a bonus if you sign and thus have a conflict of interest.
