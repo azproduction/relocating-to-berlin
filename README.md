@@ -2,11 +2,11 @@
 
 # Relocating to Berlin
 
-Q&amp;A about relocating to Berlin, Germany. All answers are based on our own experience. 
+Q&amp;A about relocating to Berlin, Germany. All answers are based on our own experience.
 
 ### How can I submit a question?
 
-Please, create an [Issue](https://github.com/azproduction/relocating-to-berlin/issues/new) or a Pull Request. 
+Please, create an [Issue](https://github.com/azproduction/relocating-to-berlin/issues/new) or a Pull Request.
 Questions are accepted in **English** (in case it is difficult for you to express yourself in English we could consider Russian as well).
 
 ### TOC
@@ -43,7 +43,7 @@ Questions are accepted in **English** (in case it is difficult for you to expres
  - [How much tax do I pay?](#how-much-tax-do-i-pay)
  - [How big are the taxes for foreigners?](#how-big-are-the-taxes-for-foreigners)
  - [Are there any obligatory payments in addition to standard taxes?](#are-there-any-obligatory-payments-in-addition-to-standard-taxes)
- 
+
 ## Language
 
 ### What level of English is expected from job applicants?
@@ -65,15 +65,15 @@ In most places, however, you'll be able to converse in English.
 
 ## Apartment
 
-### Is it difficult to rent an apartment for non-Germans? 
+### Is it difficult to rent an apartment for non-Germans?
 
 Same rules are applied to Germans and Non-Germans with a valid residence permit.
-A landlord usually does not care much from where you are, but will most likely be interested in you current salary level. 
+A landlord usually does not care much from where you are, but will most likely be interested in you current salary level.
 It's helpful to just show your contract and make sure to point out that you're going to stay in Germany for longer.
 Without a German bank account, it's impossible to rent anything decent. First pay slip along with a bank statement would also help.
 Usually it takes 2-3 months to find a good apartment, because there's a high demand for housing and prices are going up. Therefore, there are often some lower quality or overpriced places, or there are 20+ applicants for one apartment.
 
-**Mikhail Davydov**: I found one in 2 weeks, but it was an ultimate luck, before that I was renting an apartment on AirBnB 
+**Mikhail Davydov**: I found one in 2 weeks, but it was an ultimate luck, before that I was renting an apartment on AirBnB
 for 2 months.
 
 **Artem Sapegin**: I found my in 1,5 months but I have two dogs which makes it much more complicated. There are companies like [Berlinovo](https://www.berlinovo.de/en) or [Central Home](https://www.central-home.de/en/home/) where you can rent a flat without registration or bank account. You can register there and live as long as you want (but you probably would not want).
@@ -87,7 +87,7 @@ As of May 2015, the cold prices of the apartments (without heating or extra serv
  * 1 bed room - 450-650 Euro (in high demand)
  * 2 bed rooms - 850-1000 Euro
  * 3 bed rooms - 1000-1200 Euro
- 
+
 In general, there are more and less expensive cities. As of 2016, the cities with the highest rents are:
 
  * Munich: 15,48 €/m²
@@ -105,15 +105,15 @@ For more precise prices, please refer to one of the local real estate websites:
 ### How do I find an apartment?
 
 Most of the offers at real estate websites (see above) are from agents. Agents offer you the best apartments in terms of price/quality ratio, but it will cost you 119-238% (rather the latter) of the monthly net rent (rent exclusive of other costs, like heating). Finding an agent that really helps you finding an appartment is highly unlikely as there is such a high demand for housing and they mostly make their money by inserting flats on the real estate websites.
- 
+
 **Mikhail Davydov**: I was trying to find a flat on immobilienscout24, all non-agent offers had very poor quality. All agent's flats were very nice.
 
 **Max Shirshin**: I decided to skip all the non-agent offers after I had to stand in a queue of 30 or so people — just to have a look at an apartment and have a chance to file all my papers.
 
 ### Can I find a permanent fully furnitured apartment?
 
-Usually **all permanent apartments are empty**: no furniture, only white walls, mostly just light bulbs. 
-The chances of kitchen furniture are around 50:50, you then have to buy the kitchen or make a deposit. 
+Usually **all permanent apartments are empty**: no furniture, only white walls, mostly just light bulbs.
+The chances of kitchen furniture are around 50:50, you then have to buy the kitchen or make a deposit.
 The bath is always fully equipped.
 Renting fully furnitured apartment could be too expensive in terms of rental price or deposit.
 
@@ -132,51 +132,62 @@ At the end of the rental year or once a half a year, you will receive a calculat
 
 ### Is there a Deposit for an apartement?
 
-For the most places it will be required to transfer a deposit (Kaution) to a neutral bank account (Mietkautionskonto). 
+For the most places it will be required to transfer a deposit (Kaution) to a neutral bank account (Mietkautionskonto).
 In some cases landlord or renting company prefer their own accounts but you're not required to oblige.
 If it's on a neutral account, the landlord has harder access to it and cannot use it for his personal expenses.
 You can either play along and hope their are no disputes or insist on a neutral account.
-The Kaution can be up to three times of the cold rent price. 
+The Kaution can be up to three times of the cold rent price.
 Additional deposit is also common but unlawful for the landlord.
 Instead of transferring deposit you can buy deposit insurance (Kautionsversicherung) and pay ~100-150 Euro per year and save thousands Euro of cash. See [Kautionskasse](https://www.kautionskasse.de/privatkunden/moneyfix/)
 
 ### Which ISP is the best?
+
 There are a lot of national/regional ISPs in Germany.
 Also connection speeds differ a lot depending on your location (better in cities > 16 Mbps, unbearably slow on the countryside < 3 Mbps).
 Always make sure to check the internet speed at the ISPs website before subscribing, as the advertised speed is the maximum and not the actual speed.
 By law, the ISP is required to deliver at least 50% of the promised speed, so please bear in mind that your connection can be slower (~10% chance).
 
 Connection types are:
-* DSL or landline: 
+* DSL or landline:
   slow, reliable, expensive
-  ~16 Mbps for 25€ 
+  ~16 Mbps for 25€
   (Telekom, 1&1, Vodafone, O2, and others)
-* Cable: 
+* Cable:
   fast, unreliable, cheap
-  ~50 Mbps for ~35€ 
-  (Unitymedia, Kabel Deutschland)
-* UMTS/HSDPA and LTE: 
+  ~50 Mbps for ~35€
+  (Unitymedia, Kabel Deutschland, TeleColumbus)
+* UMTS/HSDPA and LTE:
   can be fast in cities, unreliable, expensive
-  varying speeds limited to 3GB from ~8€ 
+  varying speeds limited to 3GB from ~8€
   (most of the above and mobile carriers, check mobilcom)
 
 Trivia:
-* Most ISPs throttle your connection if you reach several Gigybayte a day
-* Traffic shaping is applied especially for file-sharing (don't do it, they'll catch you)
+* Some ISPs throttle your connection if you reach several Gigabytes a day
+* Traffic shaping is applied especially for file-sharing
+* In Germany File-sharing / Torrenting is heavily monitored by entertainment companies and you can expect a letter from a lawyer if they catch you
 * Most contracts come together with telephone (landline), for cable providers with private television, and sometimes with mobile contracts (choose cheaper options if you don't need it)
 * Cable providers lure you with high connection speeds, have two-year contracts, but unreliable networks (packet loss and slower speeds from time to time)
 * Order by internet, shops and hotline employees get a bonus if you sign and thus have a conflict of interest.
 * You are liable for your connection meaning that you could get in trouble for everything someone does while connected to your WLAN. (see Störerhaftung)
+* Contracts usually have a minimum term of 12 months or more but can be carried over to new flats.
+* In case you move out of your providers service area, you can cancel the contract at any time until the end of the month. (see DSL Sonderkündigungsrecht)
 
 Wikipedia has a good article on [Internet in Germany](https://en.wikipedia.org/wiki/Internet_in_Germany)
 
-**Mikhail Davydov**: All these connections are pretty much depend on your house. If it is old and not reinovated - bad luck. Most likely you will have slow internet connection via ADSL (could be 6Mbps). All new buildings have in most cases cable connection and bandwidths up to 400Mbps. In some cases you will have just 1 internet provider serving your house. Getting contract and actual internet connection is another story... All big name companies like T-Mobile and O2 are extremely slow. With these guys be ready for minimum 1 month without internet after signing a contract. Kabel Deutschland, Telecolumbus and other smaller providers and very flexible so they will just deliver a modem to your place so you can connect it yourself and already have internet 3 days after signing a contract! Mine was delivered withing a week. 
+**Mikhail Davydov**: All these connections are pretty much depend on your house. If it is old and not reinovated - bad luck. Most likely you will have slow internet connection via ADSL (could be 6Mbps). All new buildings have in most cases cable connection and bandwidths up to 400Mbps. In some cases you will have just 1 internet provider serving your house. Getting contract and actual internet connection is another story... All big name companies like T-Mobile and O2 are extremely slow. With these guys be ready for minimum 1 month without internet after signing a contract. Kabel Deutschland, Telecolumbus and other smaller providers and very flexible so they will just deliver a modem to your place so you can connect it yourself and already have internet 3 days after signing a contract! Mine was delivered withing a week.
+
+**Phil Plückthun**: If you choose to get a Cable internet connection, most older buildings will need a technician to come over.
+The ISPs cover a lot of buildings in Berlin, but do check on their website for the provided speeds and whether the flat is located in the ISP's service area, before just going ahead and renting a flat.
+TeleColumbus has good network speeds and decent reliability. Sometimes you will need to restart the modem, and at least once a week the connection becomes unstable or even unavailable for 1-2 hours.
+TeleColumbus offers contracts with a minimum term of 12 months. If you move flats they will help you get set up there as well.
+If you move to another country (or generally where their service is not available) they bound by law to allow you to cancel the contract early.
+By the way, Deutsche Telekom is known for their terrible customer service.
 
 ## Commute
 
 ### How much time does it take to get from home to the office?
 
-From zone B to zone A, or through zone A, it usually takes 30 minutes or less. 
+From zone B to zone A, or through zone A, it usually takes 30 minutes or less.
 Cycling could be faster in many cases, it is a convenient and extremely popular means of transportation in Berlin and other German cities.
 Google maps usually shows you the fastest routes including public transportation.
 
@@ -184,7 +195,7 @@ Google maps usually shows you the fastest routes including public transportation
 
 ### Why is Germany better than other countries?
 
-**Mikhail Davydov**: Social security, stable economy, it cares for the environment, easy to get to any point in Europe. 
+**Mikhail Davydov**: Social security, stable economy, it cares for the environment, easy to get to any point in Europe.
 
 **Max Shirshin**: All that **Mikhail** said, plus German is a very nice language, not that difficult to learn and useful outside the country, too.
 
@@ -192,7 +203,7 @@ Google maps usually shows you the fastest routes including public transportation
 
 ### What are the main difficulties with relocation?
 
-**Mikhail Davydov**: Besides finding the job remotely, collect, translate all required papers. 
+**Mikhail Davydov**: Besides finding the job remotely, collect, translate all required papers.
 
 **Artem Sapegin**: You also need a diploma for a Blue Card. Or 5 years experience for national work permit(Not require diploma).
 
@@ -202,7 +213,7 @@ Google maps usually shows you the fastest routes including public transportation
 
 If we are talking about Blue Card, it takes about a month to prepare all the necessary documents.
 
-This process is only valid for those, whose diploma is accepted in Germany or you are a specialist in information and communication technology. 
+This process is only valid for those, whose diploma is accepted in Germany or you are a specialist in information and communication technology.
 You can check if your diploma is accepted on [Anabin](http://anabin.kmk.org/).
 
 > If, as a national from another non-EU state, you **do not have a university degree**, nor have you completed vocational training in Germany, but are a **specialist in information and communication technology**, a work permit **can principally be granted** to you.
@@ -269,7 +280,7 @@ Basically, one monthly salary (in Berlin) should be enough.
 
 ### How do I find an IT job?
 
-Have a well-written profile on [LinkedIn](http://linkedin.com) (a must) and  [Xing](http://xing.de) (not really required). 
+Have a well-written profile on [LinkedIn](http://linkedin.com) (a must) and  [Xing](http://xing.de) (not really required).
 Scout offers on startup jobs or websites of big local companies. [4scotty](https://4scotty.com) provides a platform that you can rate your skills, upload your portfolio, once everything is ready, companies can directly get in touch with you and you can decide whether or not to accept the interview invitation.
 There are also specialized comanies for relocation to Germany, for example [German IT Jobs](http://germanitjobs.com). They offer jobs for foreigners with relocation benefits (payment of moving costs, help in finding a flat and opening a bank account, etc.).
 
@@ -281,17 +292,19 @@ Get in touch with recruitment companies but avoid signing any contracts that wou
 
 **Max Shirshin**: Found mine with the help from [Vertex Solutions](http://www.vertex-solutions.co.uk)
 
+**Phil Plückthun**: Most startups are on [Angellist](https://angel.co/). If you're looking for a job in Tech, you can usually find places to interview at in just a week.
+
 ### How do I find a non-IT job (e.g. for my spouse who is not a developer)? Is it possible?
 
-There is almost no way one can get a non-IT/non-Design job without good knowledge of German. 
+There is almost no way one can get a non-IT/non-Design job without good knowledge of German.
 To get to level B2, it would be required to study 4 times a week, 3 hours each day for a year.
-Some professions require a EU-diploma, so it is worth considering studying at a local university, 
-as the state provides free higher education. 
+Some professions require a EU-diploma, so it is worth considering studying at a local university,
+as the state provides free higher education.
 
-While learning, it is possible to work remotely, but with the obligatory registration 
+While learning, it is possible to work remotely, but with the obligatory registration
 in Finanzamt as Kleinunternehmer (for instance) at the beginning.
 
-### What kind of salary range should I expect? 
+### What kind of salary range should I expect?
 
 [Teleport](https://teleport.org/cities/berlin/) gives a quick overview of Berlin and other cities, including salary for several jobs and quality of life.
 
