@@ -292,7 +292,7 @@ Get in touch with recruitment companies but avoid signing any contracts that wou
 
 **Max Shirshin**: Found mine with the help from [Vertex Solutions](http://www.vertex-solutions.co.uk)
 
-**Andrey Klimenok**: In my case, guys from [Devbuddies](https://devbuddies.io/) agency found me a job and made a warm hospital welcome. They are a group of closely networking former developers, provided me a place to live for the first time and helped me with literally everything from Abmeldung and SIM card to making new friends in a new city.
+**Andrey Klimenok**: In my case, guys from [Devbuddies](https://devbuddies.io/) agency found me a job and made a warm hospital welcome. They are a group of closely networking former developers, provided me a place to live for the first time and helped me with literally everything from Abmeldung and SIM card to making friends in a new city.
 
 **Phil Plückthun**: Most startups are on [Angellist](https://angel.co/). If you're looking for a job in Tech, you can usually find places to interview at in just a week.
 
