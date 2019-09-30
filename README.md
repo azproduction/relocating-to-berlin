@@ -257,6 +257,7 @@ All other information can be found here http://www.bluecard-eu.de/
 * Lunch in a cafe for one: 5-13€
 * Dinner in a restaurant for two: 20-40€
 * Beer in a cafe: 2-4€
+* A quite detailed summary of various cost items by cities can be found on [Numbeo](https://www.numbeo.com/cost-of-living/in/Berlin) 
 
 ### What are the main difficulties with living in Germany?
 
@@ -264,7 +265,7 @@ All other information can be found here http://www.bluecard-eu.de/
 
 **Max Shirshin**: Motivation to make a second integration step. Your relocation is your first step, but a lot of people won't make a second one. Change your cultural patterns, visit German-speaking places whenever possible, and stop comparing everything you see around to your ex-home country/city.
 
-### What about first-time expences when relocating?
+### What about first-time expenses when relocating?
 
 For a first 1 or 2 months you will most likely living in the all-inclusive fully furnitured apartment,
 so besides paying for the rent there will be no extra payments. Usually it is +30-40% to the price of the "normal" apartment.
@@ -314,9 +315,13 @@ It depends on many factors, please refer to the job posting websites like [angel
 
 If you're OK with very imprecise estimations, IT professionals in Berlin earn 45000-70000 Euro per year "gross" (before taxes).
 
+**Ferenc Csonka**: an imprecise, rough estimation but more up to date as of September 2019: mid-level professionals with a few years of experience can earn around 45-55.000 EUR gross per year. Seniors vary between 55.000 - 75.0000 EUR (or more if you know something that the majority don't). Tech leads, team leads, head of engineering etc can make more than that.
+
 ### How Germans describe salaries?
 
 Salaries in Germany are referenced in Euros per year (no one cares about monthly amount). Whenever you get a quote, it's always before taxes (it's called gross salary "brutto"). Your potential employer can usually give you a rough estimate on net salary (after-taxes, "netto") on request, but you'd have to provide some extra data like age, marital status, info on your kids, etc.
+
+Not striclty part of the salary, but related: if the company which is about to hire you also offers a relocation coverage, then check the amount and how it is supposed to be spend. Often you need to keep invoices to prove the costs (e.g. flights tickets, visa costs, moving), submit them to the company and they reimburse afterwards.
 
 ## Taxes and Payments
 
