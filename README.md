@@ -195,6 +195,19 @@ Google maps usually shows you the fastest routes including public transportation
 
 ### Why is Germany better than other countries?
 
+Economy and social security is strong in Germany. Country stays strong against social inequality not only in mindset of residents, but by many supporting laws.
+
+ - Unemployment insurance and public employment agencies (SGB II and III)
+ - Mandatory state or private health insurance (SGB V)
+ - Old age, widow's/widower's, orphans and disability pension insurance (SGB VI)
+ - Invalidity insurance (SGB VII and IX)
+ - Child support (SGB VIII)
+ - Social care (SGB XI)
+
+Read more:
+ * [Social security in Germany](https://en.wikipedia.org/wiki/Social_security_in_Germany)
+ * [Social Security and Employee Benefits in Germany](https://www.howtogermany.com/pages/working.html)
+
 **Mikhail Davydov**: Social security, stable economy, it cares for the environment, easy to get to any point in Europe.
 
 **Max Shirshin**: All that **Mikhail** said, plus German is a very nice language, not that difficult to learn and useful outside the country, too.
