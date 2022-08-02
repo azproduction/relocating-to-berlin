@@ -344,7 +344,7 @@ Very important advice for first year esp.: you can return a lot(>2000€ for 2 m
 
 Taxes can reach 40% and more, so your gross salary is by no means the amount of money you'll be getting. Statutory medical insurance is part of your taxes already.
 
-Search Google for "German tax calculator" to calculate an estimate for your salary after taxes yourself. It's pretty accurate if you fill in the data correctly.
+You can use the following [German net salary calculator](https://lohntastik.de/gns/gross-net-salary-calculator) to estimate your salary after taxes and social contributions. It's pretty accurate if you fill in the data correctly.
 
 Seek professional advice even if you think you don't need any. Tax law is quite complicated. Your home country may have important requirements for you if you work abroad, or extra taxes to be payed. Your office buddies are not a good source of critical financial information. Germans are strict with these issues and don't joke around. Stuff like this can get you into serious trouble.
 
